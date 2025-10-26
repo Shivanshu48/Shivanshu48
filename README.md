@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu48&label=Profile%20views&color=4ddb1a&style=flat" alt="shivanshu48" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu48" alt="shivanshu48" /></a> </p>
 
 - 🌱 I’m currently learning **React,MongoDB and Machine Learning.**
 
